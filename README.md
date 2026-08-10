@@ -1,11 +1,11 @@
 # Material Library
 
-[![Official Website](https://img.shields.io/badge/Website-infinitode.netlify.app-blue)](https://infinitode.netlify.app/resources.material-library)
+[![Official Website](https://img.shields.io/badge/Website-infinitode.netlify.app-blue)](https://infinitode.netlify.app/resources/material-library)
 [![Blender Version](https://img.shields.io/badge/Blender-3.3%2B%20%7C%203.4%2B-orange)](https://www.blender.org/)
 
 A free resources project containing procedurally generated Blender materials for metals, deformed metals, glass, experimental textures, and more. All materials were automatically generated using a custom-coded Blender add-on.
 
-Check out the full library and interactive showcase on our [Official Website](https://infinitode.netlify.app/resources.material-library).
+Check out the full library and interactive showcase on our [Official Website](https://infinitode.netlify.app/resources/material-library).
 
 ## Features & Compatibility
 
@@ -55,7 +55,7 @@ The [`materials.json`](https://github.com/Infinitode/Material-Library/blob/main/
 
 ## Links
 
-- **Website**: [Infinitode Material Library](https://infinitode.netlify.app/resources.material-library)
+- **Website**: [Infinitode Material Library](https://infinitode.netlify.app/resources/material-library)
 
 ## License
 
